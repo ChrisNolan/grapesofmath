@@ -9,7 +9,7 @@ Let's get started.  This website is being hosted on [github pages][github pages]
 I'm going to play around a bit and see how we implement the first example, and then how we'll be navigating around.
 
 {% highlight javascript %}
-println("The Grapes of Math website @ URL to be detirmined");
+println("The Grapes of Math website @ http://grapesofmath.chrisnolan.ca/");
 {% endhighlight %}
 
 I think what I'll do is put the javascript (or maybe other code if required?) inline with the post, and then embed via an iframe (or just a script tag that embeds it) the khan academy program written with the same source code.
